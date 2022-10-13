@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="area_calculator">Area Calculator</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="length_l">Length (l)</string>
+    <string name="width_w">Width (w)</string>
+    <string name="answer">Answer</string>
+    <string name="clear">Clear</string>
+    <string name="calculate">Calculate</string>
+    <string name="edge_1_a">Edge 1 (a)</string>
+    <string name="edge_2_b">Edge 2 (b)</string>
+    <string name="edge_3_c">Edge 3 (c)</string>
+    <string-array name="unit">
+        <item>inches</item>
+        <item>feet</item>
+        <item>yard</item>
+        <item>miles</item>
+        <item>meters</item>
+        <item>kilometers</item>
+        <item>centimeters</item>
+        <item>millimeters</item>
+
+
+    </string-array>
+</resources>
